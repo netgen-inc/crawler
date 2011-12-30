@@ -1,6 +1,6 @@
 [submodule "spider"]
 	path = spider
 	url = git://github.com/netgen-inc/spider.git
-[submodule "convertor"]
-	path = convertor
-	url = git://github.com/netgen-inc/convert.git
+[submodule "parser"]
+	path = parser
+	url = git://github.com/netgen-inc/parser.git
